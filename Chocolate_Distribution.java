@@ -1,3 +1,5 @@
+// Problem link - https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
+
 package com.company.Arrays;
 
 import java.util.ArrayList;
